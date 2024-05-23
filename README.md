@@ -33,10 +33,13 @@ Week 8, I change my model to gemini
 Week 9, I insert base model gemini and it did reply me
 
 Week 10, I tuned the gemini model
-
+![image](https://github.com/reagan1133/utschatai/assets/157485472/974f6943-b0f9-4892-9e56-05c4de77b164)
 
 Week 11, I don't have permission to access it
 How I insert 
 ![image](https://github.com/reagan1133/utschatai/assets/157485472/8aad2c69-e5b1-4f1c-8160-bc7b7ea14bdb)
 
-Week 12, It finally worked by using Azure VM as my AI model server
+Week 12, It finally worked by using flask, and Azure VM as my AI model server
+![image](https://github.com/reagan1133/utschatai/assets/157485472/9437e097-7ba7-4175-9fb2-ac1e301778b2)
+![image](https://github.com/reagan1133/utschatai/assets/157485472/88423acb-a1b8-45ee-8c1c-8f1d67127021)
+
